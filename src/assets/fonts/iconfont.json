@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9157694",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "13972450",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    }
+  ]
+}

@@ -21,6 +21,7 @@ module.exports = {
         "space-before-function-paren": 0,
         "comma-dangle": 0,
         "vue/no-unused-vars": 0,
-        "spaced-comment": 0
+        "spaced-comment": 0,
+        "space-before-blocks":0
     }
 }

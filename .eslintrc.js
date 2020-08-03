@@ -22,6 +22,10 @@ module.exports = {
         "comma-dangle": 0,
         "vue/no-unused-vars": 0,
         "spaced-comment": 0,
-        "space-before-blocks":0
+        "space-before-blocks":0,
+    
+        'no-unused-vars': 'off',
+        'camelcase': ['error', { 'allow': ['aa_bb'] }]
+
     }
 }

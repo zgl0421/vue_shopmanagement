@@ -32,7 +32,7 @@
           <template slot-scope="scope">{{scope.row.create_time | dataFormat}}</template>
         </el-table-column>
         <el-table-column label="操作">
-          <template slot-scope="scope">
+          <template >
             <el-button type="primary" @click="showBox" size="mini" icon="el-icon-edit">编辑</el-button>
             <el-button
               type="success"
